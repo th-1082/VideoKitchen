@@ -11,7 +11,7 @@ videoName = ""
 videoEndPoint = 0
 
 def clear():
-    os.system("tput reset")
+    os.system("cls")
 
 # displays the main menu (not used yet)
 def displayMenu():
